@@ -247,10 +247,7 @@ def execute(input_value, element) :
         elif symbol == UNKNOWN :
             return input_value
 
-def sd(te, de) :
-    pass
-
-token_list = lex("4 * x ^ 2 + 4 * x + 1")
+token_list = lex("x^2  + 8 * x + 16")
 element = parse(token_list)
 result = execute(1, element)
 
