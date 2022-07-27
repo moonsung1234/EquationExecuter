@@ -5,7 +5,7 @@
 
 <br/>
 
-## func.py
+## - func.py
 
 ![lex_flowchart](https://user-images.githubusercontent.com/71556009/181166384-323eb0b8-884a-4518-99f6-05ddf78a9c4a.PNG)
 
