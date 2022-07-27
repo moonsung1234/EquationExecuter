@@ -1,5 +1,5 @@
 
-# Synthetic Divison & Research
+# Equation Executer
 
 -----
 
